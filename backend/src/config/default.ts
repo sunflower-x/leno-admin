@@ -7,18 +7,18 @@ export default () => {
       APP_PORT: 9090,
       APP_HTTP: 'http',
       // mysql
-      MYSQL_HOST: 'localhost',
+      MYSQL_HOST: '110.42.212.108',
       MYSQL_PORT: 3306,
       MYSQL_USER: 'root',
-      MYSQL_PWD: 'admin123',
+      MYSQL_PWD: '20011014Xbh!',
       MYSQL_DB: 'leno_admin',
       // JWT
       JWT_SECRET: 'lenoAdmin',
       JWT_REFRESH_SECRET: 'refreshToken',
       // redis
       REDIS_PORT: 6379,
-      REDIS_HOST: 'localhost',
-      REDIS_PASSWORD: 'admin123',
+      REDIS_HOST: '110.42.212.108',
+      REDIS_PASSWORD: '20011014Xbh!',
       REDIS_DB: 0,
       // 图片路径
       IMG_URL: 'http://localhost:9090/uploads/',
